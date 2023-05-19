@@ -14,3 +14,5 @@ My motivation was to create a page that reflected some recently learned CSS tric
 
 - What did you learn?
   I learned the above CSS tricks.
+  
+![Screenshot 2023-05-19 at 11-16-30 CSS Snippet Cheatsheet](https://github.com/TravisH-bot/CSS-snippet-cheatsheet/assets/79767820/86491604-c990-4ed2-80a3-9f80b0eda4c4)
